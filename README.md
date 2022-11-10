@@ -1,0 +1,1 @@
+# react-nextjs-fauna-default-bundle-auth-app
